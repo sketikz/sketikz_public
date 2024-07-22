@@ -6,9 +6,9 @@ SkeTi<i>k</i>Z is a dataset that pairs sketches with TikZ code. You can use it t
 ## Dataset Location  
 The dataset is stored on an external storage service. You can access and download the dataset from the following link:  
 
-image files (all): https://storage.googleapis.com/sketikz/sketch_images.tar.gz  
-image files (100 samples): https://storage.googleapis.com/sketikz/sketch_images_example.tar.gz  
-TikZ code files: https://storage.googleapis.com/sketikz/sketikz_data.json  
+- All image files can be downloaded from [here](https://storage.googleapis.com/sketikz/sketch_images.tar.gz).  
+- 100 randomly sampled image files can be downloaded from [here](https://storage.googleapis.com/sketikz/sketch_images_example.tar.gz).
+- JSON files containing TikZ code can be downloaded from [here](https://storage.googleapis.com/sketikz/sketikz_data.json).  
 
 ## Contact  
 Itsumi Saito - itsumi.saito@tohoku.ac.jp  
