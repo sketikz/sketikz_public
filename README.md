@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SkeTi<i>k</i>Z  
 
 ## Description  
@@ -13,3 +14,11 @@ The dataset is stored on an external storage service. You can access and downloa
 ## Contact  
 Itsumi Saito - itsumi.saito@tohoku.ac.jp  
 Project Link: https://sketikz.github.io/  
+=======
+## Welcome to SkeTi<i>k</i>Z!
+
+### Dataset
+- Image data can be downloaded from [here](https://storage.googleapis.com/sketikz/sketch_images.tar.gz).
+
+- JSON data can be downloaded from [here](https://storage.googleapis.com/sketikz/sketikz_data.json).
+>>>>>>> 750adb0f0add8a6e5e6465f9dda6a868623c87ae
