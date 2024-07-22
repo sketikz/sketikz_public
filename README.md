@@ -1,4 +1,4 @@
-# Project Title: SkeTi<i>k</i>Z  
+# SkeTi<i>k</i>Z  
 
 ## Description  
 SkeTi<i>k</i>Z is a dataset that pairs sketches with TikZ code. You can use it to develop and evaluate models that generate TikZ code from sketches.  
@@ -11,5 +11,5 @@ image files (100 samples): https://storage.googleapis.com/sketikz/sketch_images_
 TikZ code files: https://storage.googleapis.com/sketikz/sketikz_data.json  
 
 ## Contact  
-Itsumi Saito - [itsumi.saito@tohoku.ac.jp]  
-Project Link: [https://sketikz.github.io/]  
+Itsumi Saito - itsumi.saito@tohoku.ac.jp  
+Project Link: https://sketikz.github.io/  
