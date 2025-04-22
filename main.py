@@ -1,11 +1,4 @@
 import streamlit as st
-from transformers import pipeline
-
-@st.cache_resource
-def get_model():
-    # Load the model here
-    model = pipeline("image-to-text", model="itsumi-st/imgtikz_qwen2vl")
-    return model
 
 st.logo("NLP_Group_logo.svg", size="large")
 main_page = st.Page("main_page.py", title="Main Page", icon="🏠")
