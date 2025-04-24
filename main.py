@@ -1,6 +1,11 @@
-import streamlit as st
+import os
 
-st.logo("NLP_Group_logo.svg", size="large")
+import streamlit as st
+from PIL import Image
+
+logo_path = os.path.join(os.path.dirname(__file__), "NLP_Group_logo.png")
+logo = Image.open(logo_path)
+st.logo(logo, size="large")
 main_page = st.Page("main_page.py", title="Main Page", icon="🏠")
 sketch2diagram_page = st.Page("sketch2diagram.py", title="Sketch2Diagram", icon="🖼️")
 # Add pages to the main page

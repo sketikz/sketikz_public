@@ -1,3 +1,12 @@
 streamlit~=1.43.2
-transformers~=4.50.0
-pillow~=11.1.0
+torch==2.6.0
+torchvision==0.21.0
+torchaudio
+transformers==4.48.2
+qwen-vl-utils==0.0.10
+packaging
+accelerate==1.0.1
+requests
+pillow
+python-dotenv
+pdf2image
