@@ -31,4 +31,4 @@ RUN pip install --no-cache-dir https://github.com/mjun0812/flash-attention-prebu
 COPY . .
 
 # Default command
-ENTRYPOINT ["streamlit", "run", "main.py"]
+ENTRYPOINT ["streamlit", "run", "app.py"]
